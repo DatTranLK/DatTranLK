@@ -6,7 +6,7 @@
 ## About Me!!!
 
 - :credit_card: My full name is **Tran Thanh Dat**
-- :date: Date of Birth is **25/06/2001**
+- :date: Date of Birth: **25/06/2001**
 - :iphone: Phone: **+8479 3808 821**
 - :email: Email: **thanh.datttse@gmail.com**
 - :earth_asia: Now I am currently live in **District 12, Ho Chi Minh City, Viet Nam**
