@@ -15,6 +15,11 @@
 - :dart: After 3 years in college, I realized my passion is a Web application. I always want to learn more technologies to help my knowledge expand.
 - :thinking: **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt** this quote makes me realize a lot of things so you can read and think about it :sunglasses: :sunglasses: :sunglasses:
 
+## GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatTranLK&theme=shades-of-purple&layout=compact" 
+    alt="DatTranLK GitHub Top Languages" />
+
+
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
