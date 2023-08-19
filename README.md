@@ -13,7 +13,7 @@
 - :school: I'm currently 4rd year student at **FPT University - Ho Chi Minh City Campus**
 - :notebook_with_decorative_cover: My major is **Software Engineering**
 - :dart: After 3 years in college, I realized my passion is a Web application. I always want to learn more technologies to help my knowledge expand.
-- :thinking: **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt** this quote makes me realize a lot of things so you can read and think about it :sunglasses: :sunglasses: :sunglasses:
+- :thinking: **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt** This quote makes me realize a lot of things so you can read and think about it :sunglasses: :sunglasses: :sunglasses:
 
 ## GitHub Stats
 <a href="https://github.com/DatTranLK">
@@ -35,11 +35,12 @@
 <br />
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br />
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br />
 
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
