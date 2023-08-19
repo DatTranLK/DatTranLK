@@ -16,16 +16,17 @@
 - :thinking: **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt** this quote makes me realize a lot of things so you can read and think about it :sunglasses: :sunglasses: :sunglasses:
 
 ## GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DatTranLK&show_icons=true&theme=shades-of-purple&count_private=true" alt="DatTran's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatTranLK&theme=shades-of-purple&layout=compact" 
+<a href="https://github.com/DatTranLK">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DatTranLK&show_icons=true&theme=shades-of-purple&count_private=true" alt="DatTran's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatTranLK&theme=shades-of-purple&layout=compact" 
     alt="DatTranLK GitHub Top Languages" />
-
+</a>
 
 ### Languages and Tools:
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 <br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
