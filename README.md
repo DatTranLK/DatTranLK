@@ -16,6 +16,7 @@
 - :thinking: **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt** this quote makes me realize a lot of things so you can read and think about it :sunglasses: :sunglasses: :sunglasses:
 
 ## GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DatTranLK&show_icons=true&theme=shades-of-purple&count_private=true" alt="DatTran's GitHub Stats" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatTranLK&theme=shades-of-purple&layout=compact" 
     alt="DatTranLK GitHub Top Languages" />
 
