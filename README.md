@@ -10,9 +10,9 @@
 - :iphone: Phone: **+8479 3808 821**
 - :email: Email: **thanh.datttse@gmail.com**
 - :earth_asia: Now I am currently live in **District 9, Ho Chi Minh City, Viet Nam**
-- :school: I'm currently 4rd year student at **FPT University - Ho Chi Minh City Campus**
+- :school: I have been graduated from **FPT University - Ho Chi Minh City Campus**
 - :notebook_with_decorative_cover: My major is **Software Engineering**
-- :dart: After 3 years in college, I realized my passion is a Web application. I always want to learn more technologies to help my knowledge expand.
+- :dart: After 4 years in college, I realized my passion is a Web application. I always want to learn more technologies to help my knowledge expand.
 - :thinking: **“When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.”— Eleanor Roosevelt** This quote makes me realize a lot of things so you can read and think about it :sunglasses: :sunglasses: :sunglasses:
 
 ## GitHub Stats
